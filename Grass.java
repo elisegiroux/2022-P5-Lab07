@@ -16,5 +16,8 @@ public class Grass {
     }
 
     public static void drawBushTwo(Graphics g){
+        g.setColor(new Color(11,94,16));
+        g.fillArc(650,325,75,75,0,180);
+        g.fillArc(715,312,100,100,0,180);
     }
 }

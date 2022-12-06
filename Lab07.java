@@ -13,12 +13,8 @@ public class Lab07 extends Applet {
         Grass.drawBushOne(g);
         Grass.drawBushTwo(g);
 
-        Flowers.drawPinkAndYellowOne(g);
-        Flowers.drawPinkAndYellowTwo(g);
-        Flowers.drawYellowAndBlackOne(g);
-        Flowers.drawYellowAndBlackTwo(g);
-        Flowers.drawOrangeAndPinkOne(g);
-        Flowers.drawOrangeAndPinkTwo(g);
+        Flowers.RiverOne(g);
+        Flowers.RiverTwo(g);
 
 
 
