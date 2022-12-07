@@ -11,6 +11,14 @@ public class Background {
     public static void drawSun(Graphics g){
         g.setColor(new Color(250,235,143));
         g.fillOval(400,100,275,200);
+        g.drawLine(400,75,450,150);
+        g.drawLine(350,100,425,175);
+        g.drawLine(450,55,475,125);
+        g.drawLine(500,45,515,125);
+        g.drawLine(550,45,545,125);
+        g.drawLine(595,50,580,125);
+        g.drawLine(635,60,610,125);
+        g.drawLine(675,70,630,150);
     }
 
     public static void drawMntOne(Graphics g){
